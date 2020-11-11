@@ -1,0 +1,29 @@
+{
+  "name": "dyml",
+  "version": "1.0.0",
+  "description": "Dynamic Yaml Editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^10.0.0",
+    "@types/yargs": "^15.0.9",
+    "typescript": "^3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaMundhara/dyml.git"
+  },
+  "author": "Aditya Mundhara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityaMundhara/dyml/issues"
+  },
+  "homepage": "https://github.com/adityaMundhara/dyml#readme"
+}
